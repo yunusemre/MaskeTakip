@@ -1,0 +1,217 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/tatar/RiderProjects/Projects/MaskeTakip/Workaround/Workaround.csproj": {}
+  },
+  "projects": {
+    "/Users/tatar/RiderProjects/Projects/MaskeTakip/Bussiness/Bussiness.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/tatar/RiderProjects/Projects/MaskeTakip/Bussiness/Bussiness.csproj",
+        "projectName": "Bussiness",
+        "projectPath": "/Users/tatar/RiderProjects/Projects/MaskeTakip/Bussiness/Bussiness.csproj",
+        "packagesPath": "/Users/tatar/.nuget/packages/",
+        "outputPath": "/Users/tatar/RiderProjects/Projects/MaskeTakip/Bussiness/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/tatar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/tatar/RiderProjects/Projects/MaskeTakip/Entities/Entities.csproj": {
+                "projectPath": "/Users/tatar/RiderProjects/Projects/MaskeTakip/Entities/Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "System.ServiceModel.Duplex": {
+              "target": "Package",
+              "version": "[4.10.*, )"
+            },
+            "System.ServiceModel.Federation": {
+              "target": "Package",
+              "version": "[4.10.*, )"
+            },
+            "System.ServiceModel.Http": {
+              "target": "Package",
+              "version": "[4.10.*, )"
+            },
+            "System.ServiceModel.NetTcp": {
+              "target": "Package",
+              "version": "[4.10.*, )"
+            },
+            "System.ServiceModel.Security": {
+              "target": "Package",
+              "version": "[4.10.*, )"
+            },
+            "WSF": {
+              "target": "Package",
+              "version": "[0.1.0, )"
+            },
+            "editorconfig": {
+              "target": "Package",
+              "version": "[0.15.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/tatar/RiderProjects/Projects/MaskeTakip/Entities/Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/tatar/RiderProjects/Projects/MaskeTakip/Entities/Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "/Users/tatar/RiderProjects/Projects/MaskeTakip/Entities/Entities.csproj",
+        "packagesPath": "/Users/tatar/.nuget/packages/",
+        "outputPath": "/Users/tatar/RiderProjects/Projects/MaskeTakip/Entities/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/tatar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "editorconfig": {
+              "target": "Package",
+              "version": "[0.15.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/tatar/RiderProjects/Projects/MaskeTakip/Workaround/Workaround.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/tatar/RiderProjects/Projects/MaskeTakip/Workaround/Workaround.csproj",
+        "projectName": "Workaround",
+        "projectPath": "/Users/tatar/RiderProjects/Projects/MaskeTakip/Workaround/Workaround.csproj",
+        "packagesPath": "/Users/tatar/.nuget/packages/",
+        "outputPath": "/Users/tatar/RiderProjects/Projects/MaskeTakip/Workaround/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/tatar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/tatar/RiderProjects/Projects/MaskeTakip/Bussiness/Bussiness.csproj": {
+                "projectPath": "/Users/tatar/RiderProjects/Projects/MaskeTakip/Bussiness/Bussiness.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "editorconfig": {
+              "target": "Package",
+              "version": "[0.15.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
